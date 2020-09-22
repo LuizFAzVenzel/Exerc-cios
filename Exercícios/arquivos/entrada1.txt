@@ -1,0 +1,4 @@
+Luiza,7,5,10
+Bruno,1,7,8
+Marcia,5,3,10
+Juliana,8,8,10
