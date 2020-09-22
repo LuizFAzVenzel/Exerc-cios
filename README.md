@@ -1,0 +1,1 @@
+Professor exercícios1 é a primeira proposta e o ProjetoArquivos é a segunda. Sobre a terceira eu não consegui fazer, aconteceram umas coisas aqui em casa e não consegui ver muito só consegui fazer a 2
